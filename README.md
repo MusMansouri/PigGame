@@ -48,7 +48,7 @@ This file contains the JavaScript logic for the game. Here are some key features
 - Handling of click events on buttons to roll the die, hold points, and start a new game.
 - Features for switching the active player and checking the winner.
 
-![Game Flowchart](/img/pig-game-flowchart.png)
+![Game Flowchart](/Img/pig-game-flowchart.png)
 
 ```javascript
 // Example code from script.js
@@ -95,4 +95,4 @@ btnNew.addEventListener('click', function () {
 
 ### Screenshot
 
-![Game Screenshot](img/screenshot.png)
+![Game Screenshot](Img/screenshot.png)
